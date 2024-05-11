@@ -4,7 +4,7 @@
     "level": "warn",
     "timestamp": true
   },
-  "experimental": {
+  "experimental": 
     "cache_file": {
       "enabled": true,
       "path": "cache.db"
